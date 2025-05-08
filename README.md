@@ -1,13 +1,21 @@
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Hero image">
-
-I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
+<img align="right" width="556" height="500"src="https://user-images.githubusercontent.com/.png" >
+I like experimenting with new technologies, building  projects, ✨
 
 Here's a list of things I currently keep myself busy with:
 
-- 👩🏻‍💻 Working as a software engineer over at **[Rounded](https://rounded.io)**
-- ☀️ Maintaining **[Letra](https://github.com/jayehernandez/letra-extension)**, an open-source project I created (feel free to contribute, this is beginner friendly!)
-- ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**.
-- 🛠 Getting myself into JAMStack. Trying out [11ty](https://www.11ty.dev/) and [Nuxt.js](https://nuxtjs.org/) in my spare time.
+☁️🧑🏾‍💻Cloud/DevOps Engineer in training, passionate about automation, Infrastructure as Code, and developing scalable cloud solutions. Currently building strong skills in Azure, Terraform, Docker, Kubernetes, and CI/CD pipelines to help companies modernize their systems and scale securely.
+
+DevOps Trainee – Self-Guided Study
+Oct 2024 – Present
+Dedicated to intensive learning in DevOps and Cloud through courses, labs, and real-world environment simulations.
+
+Technologies I’m working with:
+• Azure
+• Docker, Kubernetes
+• Terraform, Ansible
+• GitHub Actions, Jenkins
+• Linux, Python
 
 <details>
   <summary>Some other facts about me-e-e</summary>
