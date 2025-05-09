@@ -6,11 +6,11 @@
       <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
     </ul>               
   <p align="left">
-  <a href="https://www.linkedin.com/in/randy-jorge-lara-4b8207243/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="mailto:randydev24@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg" alt="gmail"height="50" width="50"></a>
-   
- 
-  </p>
+  <a href="mailto:randydev24@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg" alt="gmail"height="60" width="60" 
+/></a>
+ <a href="https://www.linkedin.com/in/randy-jorge-lara-4b8207243/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg" height="60" width="60"></a>
+  </p>  </p>
   </div>
 I like experimenting with new technologies, building projects,✨
 Here's a list of things I currently keep myself busy with:
@@ -91,10 +91,6 @@ Technologies I’m working with:
 
   <p align="center">
     <a href="http://hits.dwyl.com/jayehernandez/jayehernandez">
-      <img align="center" src="http://hits.dwyl.com/jayehernandez/jayehernandez.svg">
     </a>
   </p>
 </p>
-
-<a href="randydev24@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" /></a>
- ----- 
