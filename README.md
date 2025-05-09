@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
 # Welcome to my Github Profile RANDY JORGE LARA
-
-   <div id="user-content-toc">
+  <div id="user-content-toc">
     <ul align="left">
       <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
     </ul>               
   <p align="left">
   <a href="https://www.linkedin.com/in/randy-jorge-lara-4b8207243/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="randydev24@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
+  <a href="mailto:randydev24@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg" alt="gmail"height="50" width="50"></a>
+   
  
   </p>
   </div>
@@ -96,5 +96,5 @@ Technologies I’m working with:
   </p>
 </p>
 
-
------ 
+<a href="randydev24@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" /></a>
+ ----- 
